@@ -14,4 +14,6 @@ Dans ce projet, vous écrirez des fonctions JavaScript pour alimenter un petit j
 
 
 ## ![Logo Technologie](/ressource/technologie.png) Technologie
-JavaScript ![Logo JavaScript](/ressource/javascript.png)
+- HTML ![Logo HTML](/ressource/htmlLogo.png)
+- CSS ![Logo CSS](/ressource/cssLogo.png)
+- JavaScript ![Logo JavaScript](/ressource/javascriptLogo.png)
