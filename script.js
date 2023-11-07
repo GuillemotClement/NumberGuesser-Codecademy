@@ -17,6 +17,13 @@ const compareGuesses = (nbUser, nbComputer, nbSecret) => {
     };
 };
 
-
+//Fonction qui permet d'augmenter le score du gagnant
+const updateScore = (gagnant) => {
+    if(gagnant === true){
+        humanScore++;
+    }else{
+        computerScore++;
+    }
+};
 
 
