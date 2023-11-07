@@ -14,6 +14,8 @@ Le travail s'effectue dans le fichier `script.js`.
 Il consiste à l'écriture de 4 fonctions :
 - `generateTarget()`: renvoie un nombre entier entre 0 et 9
 - `compareGuesses()`: permet de déterminer qui est le plus proche du bon nombre
+- `updateScore()`: met à jour le nombre de point du gagnant
+- `advanceRound()`: mets à jour le numéro de tour
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 

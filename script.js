@@ -26,4 +26,6 @@ const updateScore = (gagnant) => {
     }
 };
 
+//Fonction qui met à jour le numéro de tour à chaque tour
+const advanceRound = () => currentRoundNumber++;
 
