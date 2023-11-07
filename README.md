@@ -13,7 +13,7 @@ Dans ce projet, vous écrirez des fonctions JavaScript pour alimenter un petit j
 Le travail s'effectue dans le fichier `script.js`.
 Il consiste à l'écriture de 4 fonctions :
 - `generateTarget()`: renvoie un nombre entier entre 0 et 9
-- 
+- `compareGuesses()`: permet de déterminer qui est le plus proche du bon nombre
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
